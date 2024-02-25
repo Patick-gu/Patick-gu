@@ -1,16 +1,14 @@
-<h1 align="center">Olá! Eu sou a Mayara 👋</h1>
+<h1 align="center">Olá! Eu sou Patrick ⭐</h1>
 <hr>
-Sou um entusiasta da tecnologia apaixonada por desenvolvimento de sistemas. Minha jornada começou quando me interessei por programação e desde então tenho buscado aprimorar minhas habilidades nessa área.
+Sou um entusiasta da tecnologia apaixonado por desenvolvimento de sistemas. Minha jornada começou quando me interessei por programação e desde então tenho buscado aprimorar minhas habilidades nessa área.
 <br>
 <br>
-- 👩🏽‍💻| Técnica em Desenvolvimento de Sistemas;<br>
-- 📚|  Atualmente, estou cursando Desenvolvimento de Sistemas Multiplataformas - (5/6) na FATEC;<br>
+- 👩🏽‍💻| progamador de sofa;<br>
 - 🌱| Estou constantemente aprendendo e me atualizando sobre as melhores práticas de desenvolvimento;<br>
 - 👯| Estou em busca de oportunidades para colaborar em projetos desafiadores e trabalhar em equipe;<br>
 - 💬| Adoro compartilhar conhecimento e discutir ideias relacionadas a tecnologia;<br>
 - 😄| Sou uma pessoa curiosa, inovadora e de fácil adaptação;<br>
-- ⚡| Estou ansiosa para enfrentar novos desafios e contribuir para o desenvolvimento de soluções tecnológicas.<br>
-- 👩🏽‍💻| Pronomes: Ela/dela.<br><br>
+- ⚡| Estou ansioso para enfrentar novos desafios e contribuir para o desenvolvimento de soluções tecnológicas.<br><br>
 
 <div align="center">
   <a href="https://github.com/mayarakaren">
