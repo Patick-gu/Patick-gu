@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou Patrick ⭐</h1>
+<h1 align="center">Olá! Eu sou o Patrick ⭐</h1>
 <hr>
 Sou um entusiasta da tecnologia apaixonado por desenvolvimento de sistemas. Minha jornada começou quando me interessei por programação e desde então tenho buscado aprimorar minhas habilidades nessa área.
 <br>
