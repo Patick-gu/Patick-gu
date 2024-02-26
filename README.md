@@ -11,22 +11,14 @@ Sou um entusiasta da tecnologia apaixonado por desenvolvimento de sistemas. Minh
 - ⚡| Estou ansioso para enfrentar novos desafios e contribuir para o desenvolvimento de soluções tecnológicas.<br><br>
 
 <div align="center">
-  <a href="https://github.com/mayarakaren">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mayarakaren&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayarakaren&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/Patick-gu">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Patick-gu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patick-gu&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div style="display: inline_block"><br>
 
-<a href="https://www.uol.com.br/" target="_blank" rel="noopener noreferrer" ><img src="logo-uol-icon-512.png" height="75"  align='right' /></a>
-           <span><h2>Projeto de Bolsa Estagio - UOL Compass (08/2023 - 12/2023)</h2>
-          <h3 justify-content="center">Atividades Principais</h5>
-- :pushpin:AWS Cloud Data Engineering <br>              
-- :pushpin:SQL;              
-- :pushpin:Python: ETL, Pandas, Numpy;               
-- :pushpin:Componentes de Cloud: IAM, EC2, VPC, Lambda, Step Function;
-- :pushpin:Serviços analíticos: EMR, Glue, Athena, QuickSight;          
-- :pushpin:Processamento de dados com Spark;
-- :pushpin:Visualização e modelagem de dados. 
+
+
   
    ## Habilidades Técnicas
 
