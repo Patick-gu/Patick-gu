@@ -1,13 +1,13 @@
 <h1 align="center">Olá! Eu sou o Patrick ⭐</h1>
 <hr>
-Sou um entusiasta da tecnologia apaixonado por desenvolvimento de sistemas. Minha jornada começou quando me interessei por programação e desde então tenho buscado aprimorar minhas habilidades nessa área.
+Sou um entusiasta da tecnologia amante do desenvolvimento de sistemas. Minha jornada começou quando não tinha mais graça no pc ou celular então busquei saber como as coisas eram feitas no mundo digital entao conheci a programação e desde então tenho buscado aprimorar minhas habilidades nessa área.
 <br>
 <br>
 - 👩🏽‍💻| progamador de sofa;<br>
 - 🌱| Estou constantemente aprendendo e me atualizando sobre as melhores práticas de desenvolvimento;<br>
 - 👯| Estou em busca de oportunidades para colaborar em projetos desafiadores e trabalhar em equipe;<br>
 - 💬| Adoro compartilhar conhecimento e discutir ideias relacionadas a tecnologia;<br>
-- 😄| Sou uma pessoa curiosa, inovadora e de fácil adaptação;<br>
+- 😄| Sou curioso, inovador e de fácil adaptação;<br>
 - ⚡| Estou ansioso para enfrentar novos desafios e contribuir para o desenvolvimento de soluções tecnológicas.<br><br>
 
 <div align="center">
@@ -28,12 +28,11 @@ Sou um entusiasta da tecnologia apaixonado por desenvolvimento de sistemas. Minh
   <img align="center" alt="Rafa-CSS" height="50" src="https://www.svgrepo.com/show/452185/css-3.svg">
   <img align="center" alt="JS" height="50" src="https://www.svgrepo.com/show/373705/js-official.svg">
   <img align="center" alt="BOOTSTRAP" height="50" src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg"/>
-  <img align="center" alt="JAVA" height="50" src="https://www.svgrepo.com/show/353924/java.svg"/>
+  <img align="center" alt="JAVA" height="50" src="https://www.svgrepo.com/show/173833/java.svg"/>
   <img align="center" alt="PHP" height="50" src="https://www.svgrepo.com/show/452088/php.svg">
   <img align="center" alt="PYTHON" height="50" src="https://www.svgrepo.com/show/452091/python.svg"/>
   <img align="center" alt="C" height="50" src="https://simpleicons.org/icons/c.svg"/>
-  <img align="center" alt="C#" height="50" src="https://simpleicons.org/icons/csharp.svg"/>
-  <img align="center" alt="FLUTTER" height="50" src="https://www.svgrepo.com/show/353751/flutter.svg"/>
+  
     
  - Tecnologias e Ferramentas de Desenvolvimento:<br><br>
     
@@ -52,9 +51,6 @@ Sou um entusiasta da tecnologia apaixonado por desenvolvimento de sistemas. Minh
     <img align="center" alt="GIMP" height="50" src="https://www.svgrepo.com/show/366177/gimp.svg"/>
     <img align="center" alt="CANVA" height="50" src="https://www.svgrepo.com/show/341669/canva.svg"/> 
     
-
-  - Gerenciamento de Pacotes:
-  - pip: Experiência com o uso do pip para gerenciar pacotes e dependências em projetos Python.
     <br>
     
     ## Experiência com Overleaf  <img align="center" alt="OVERLEAF" height="50" src="https://www.svgrepo.com/show/306528/overleaf.svg"/>
@@ -74,12 +70,9 @@ Sou um entusiasta da tecnologia apaixonado por desenvolvimento de sistemas. Minh
     Estou entusiasmada em aplicar minha experiência com o Overleaf em projetos futuros, e estou aberta a novas oportunidades de colaboração e aprendizado.
 
     ## Certificações
-
-    <div style="display: flex; align-items: flex-start;">
-      <img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="AI900" height="200" style="margin-right: 20px;" />
-      <img src="https://images.credly.com/size/340x340/images/ee35f7c5-696e-47ca-895c-960dfba108b3/image.png" alt="Economics" width="200" height="200">
-      <img src="https://images.credly.com/size/340x340/images/a12fff38-aab2-4643-be27-7e5c39ddc75c/image.png" alt="Business" width="200" height="200">
-      <img src="https://images.credly.com/size/340x340/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png" alt="Technical" width="200" height="200">
+    <div>
+    <img alt="OVERLEAF" height="250"  src="fomação java_page-0001.jpg"/>
+    <img alt="OVERLEAF" height="250"  src="formação espring boot_page-0001.jpg"/>
     </div>
 
    
@@ -104,7 +97,7 @@ Sou um entusiasta da tecnologia apaixonado por desenvolvimento de sistemas. Minh
 Se você gostaria de discutir uma oportunidade de colaboração, tem alguma pergunta ou apenas quer bater um papo, sinta-se à vontade para entrar em contato comigo através do email ou conectar-se comigo no LinkedIn.
 
 Ficarei feliz em ajudar! 😊<br><br>
-     <a href = "mailto:mayaramarques9738@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-     <a href="https://www.linkedin.com/in/mayara-karen-808059211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+     <a href = "patrickgutem@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+     <a href="https://www.linkedin.com/in/patrick-gutemberg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
       
 </div>
