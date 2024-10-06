@@ -97,7 +97,7 @@ Sou um entusiasta da tecnologia amante do desenvolvimento de sistemas. Minha jor
 Se você gostaria de discutir uma oportunidade de colaboração, tem alguma pergunta ou apenas quer bater um papo, sinta-se à vontade para entrar em contato comigo através do email ou conectar-se comigo no LinkedIn.
 
 Ficarei feliz em ajudar! 😊<br><br>
-     <a href = "patrickgutem@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+     <a href = "mailto:patrickgutem@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
      <a href="https://www.linkedin.com/in/patrick-gutemberg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
       
 </div>
