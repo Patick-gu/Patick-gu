@@ -28,7 +28,7 @@ Sou um entusiasta da tecnologia amante do desenvolvimento de sistemas. Minha jor
   <img align="center" alt="Rafa-CSS" height="50" src="https://www.svgrepo.com/show/452185/css-3.svg">
   <img align="center" alt="JS" height="50" src="https://www.svgrepo.com/show/373705/js-official.svg">
   <img align="center" alt="BOOTSTRAP" height="50" src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg"/>
-  <img align="center" alt="JAVA" height="50" src="https://www.svgrepo.com/show/173833/java.svg"/>
+  <img aling="center" width="50" height="50" src="https://img.icons8.com/ios/50/FD7E14/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
   <img align="center" alt="PHP" height="50" src="https://www.svgrepo.com/show/452088/php.svg">
   <img align="center" alt="PYTHON" height="50" src="https://www.svgrepo.com/show/452091/python.svg"/>
   <img align="center" alt="C" height="50" src="https://simpleicons.org/icons/c.svg"/>
