@@ -41,39 +41,18 @@ Sou um entusiasta da tecnologia amante do desenvolvimento de sistemas. Minha jor
     <img align="center" alt="VSCODE" height="50" src="https://www.svgrepo.com/show/374171/vscode.svg"/>
     <img align="center" alt="NETBEANS" height="50" src="https://simpleicons.org/icons/apachenetbeanside.svg"/>
     <img align="center" alt="GITHUB" height="50" src="https://simpleicons.org/icons/github.svg"/>
-    <img align="center" alt="DJANGO" height="50" src="https://www.svgrepo.com/show/353657/django-icon.svg"/>
-    <img align="center" alt="FLASK" height="50" src="https://www.svgrepo.com/show/468917/flask-3.svg"/>
-    <img align="center" alt="SQLITE" height="50" src="https://simpleicons.org/icons/sqlite.svg"/>
     <img align="center" alt="FIGMA" height="50" src="https://www.svgrepo.com/show/448222/figma.svg"/>
     <img align="center" alt="TRELLO" height="50" src="https://www.svgrepo.com/show/475688/trello-color.svg"/>
     <img align="center" alt="NOTION" height="50" src="https://simpleicons.org/icons/notion.svg"/>
     <img align="center" alt="MONGODB" height="50" src="https://www.svgrepo.com/show/331488/mongodb.svg"/> 
-    <img align="center" alt="GIMP" height="50" src="https://www.svgrepo.com/show/366177/gimp.svg"/>
     <img align="center" alt="CANVA" height="50" src="https://www.svgrepo.com/show/341669/canva.svg"/> 
     
     <br>
     
-    ## Experiência com Overleaf  <img align="center" alt="OVERLEAF" height="50" src="https://www.svgrepo.com/show/306528/overleaf.svg"/>
 
-    - Utilização avançada do Overleaf: Tenho experiência em utilizar o Overleaf como uma poderosa ferramenta de edição de documentos LaTeX colaborativa. 
-    Estou familiarizada com recursos como controle de versão, colaboração em tempo real e compartilhamento de projetos.
-
-    - Desenvolvimento de projetos acadêmicos: Durante meus estudos, utilizei o Overleaf para desenvolver e colaborar em projetos acadêmicos, 
-    incluindo artigos científicos, relatórios e teses. Tenho conhecimento das melhores práticas para organizar e estruturar documentos LaTeX complexos.
-
-    - Personalização de templates: Tenho habilidade em personalizar templates existentes do Overleaf para atender às necessidades específicas de cada projeto. 
-    Isso inclui ajustes de layout, inclusão de pacotes adicionais e personalização de estilos.
-
-    - Colaboração e revisão de documentos: Utilizo recursos de revisão e comentários do Overleaf para colaborar efetivamente com colegas de equipe, professores e orientadores. 
-    Tenho experiência em lidar com sugestões e alterações em documentos LaTeX e incorporá-las ao trabalho final.
-
-    Estou entusiasmada em aplicar minha experiência com o Overleaf em projetos futuros, e estou aberta a novas oportunidades de colaboração e aprendizado.
 
     ## Certificações
-    <div>
-    <img alt="OVERLEAF" height="250"  src="fomação java_page-0001.jpg"/>
-    <img alt="OVERLEAF" height="250"  src="formação espring boot_page-0001.jpg"/>
-    </div>
+
 
    
   ---
@@ -83,7 +62,7 @@ Sou um entusiasta da tecnologia amante do desenvolvimento de sistemas. Minha jor
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 <!--   grid-snake -->
-![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
+
 
 <!--   skyline 
 <a href="https://skyline.github.com/BEPb/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
