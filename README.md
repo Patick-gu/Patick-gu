@@ -13,7 +13,7 @@ Sou um entusiasta da tecnologia amante do desenvolvimento de sistemas. Minha jor
 <div align="center">
   
   <a href="https://github.com/Patick-gu">
-  
+
   [![GitHub Streak](https://github-readme-streak-stats-lac-five.vercel.app?user=Patick-gu&theme=dark&hide_border=true)](https://git.io/streak-stats)    
   </a>
 
@@ -39,16 +39,16 @@ Sou um entusiasta da tecnologia amante do desenvolvimento de sistemas. Minha jor
     
  - Tecnologias e Ferramentas de Desenvolvimento:<br><br>
     
-    <img align="center" alt="MYSQL" height="50" src="https://simpleicons.org/icons/mysql.svg">
+    <img align="center" alt="MYSQL" height="50" src="./mysql-svgrepo-com.svg">
     <img align="center" alt="GIT" height="50" src="https://www.svgrepo.com/show/452210/git.svg"/>
     <img align="center" alt="VSCODE" height="50" src="https://www.svgrepo.com/show/374171/vscode.svg"/>
-    <img align="center" alt="NETBEANS" height="50" src="https://simpleicons.org/icons/apachenetbeanside.svg"/>
-    <img align="center" alt="GITHUB" height="50" src="https://simpleicons.org/icons/github.svg"/>
+    <img align="center" alt="NETBEANS" height="50" src="./apachenetbeanside.svg"/>
+    <img align="center" alt="GITHUB" height="50" src="https://www.svgrepo.com/show/217753/github.svg"/>
     <img align="center" alt="FIGMA" height="50" src="https://www.svgrepo.com/show/448222/figma.svg"/>
     <img align="center" alt="TRELLO" height="50" src="https://www.svgrepo.com/show/475688/trello-color.svg"/>
     <img align="center" alt="NOTION" height="50" src="https://simpleicons.org/icons/notion.svg"/>
     <img align="center" alt="MONGODB" height="50" src="https://www.svgrepo.com/show/331488/mongodb.svg"/> 
-    <img align="center" alt="CANVA" height="50" src="https://www.svgrepo.com/show/341669/canva.svg"/> 
+    <img align="center" alt="CANVA" height="50" src="./canva.svg"/> 
     
     <br>
     
