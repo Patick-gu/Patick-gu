@@ -31,7 +31,9 @@ Sou um entusiasta da tecnologia amante do desenvolvimento de sistemas. Minha jor
   <img align="center" alt="Rafa-CSS" height="50" src="https://www.svgrepo.com/show/452185/css-3.svg">
   <img align="center" alt="JS" height="50" src="https://www.svgrepo.com/show/373705/js-official.svg">
   <img align="center" alt="BOOTSTRAP" height="50" src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg"/>
-  <img align="center" alt="java" width="50" height="50" src="https://img.icons8.com/ios/50/FD7E14/java-coffee-cup-logo--v1.png"/>
+
+  <img align="center" alt="java" width="50" height="50" src="https://www.svgrepo.com/show/184143/java.svg"/>
+
   <img align="center" alt="PHP" height="50" src="https://www.svgrepo.com/show/452088/php.svg">
   <img align="center" alt="PYTHON" height="50" src="https://www.svgrepo.com/show/452091/python.svg"/>
   <img align="center" alt="C" height="50" src="https://simpleicons.org/icons/c.svg"/>
@@ -44,13 +46,15 @@ Sou um entusiasta da tecnologia amante do desenvolvimento de sistemas. Minha jor
     <img align="center" alt="VSCODE" height="50" src="https://www.svgrepo.com/show/374171/vscode.svg"/>
     <img align="center" alt="NETBEANS" height="50" src="./apachenetbeanside.svg"/>
     <img align="center" alt="GITHUB" height="50" src="https://www.svgrepo.com/show/217753/github.svg"/>
-    <img align="center" alt="FIGMA" height="50" src="https://www.svgrepo.com/show/448222/figma.svg"/>
+   
     <img align="center" alt="TRELLO" height="50" src="https://www.svgrepo.com/show/475688/trello-color.svg"/>
-    <img align="center" alt="NOTION" height="50" src="https://simpleicons.org/icons/notion.svg"/>
+
     <img align="center" alt="MONGODB" height="50" src="https://www.svgrepo.com/show/331488/mongodb.svg"/> 
-    <img align="center" alt="CANVA" height="50" src="./canva.svg"/> 
+    
+    <img align="center" alt="MONGODB" height="50" src="https://www.svgrepo.com/show/373829/maven.svg"/> 
     
     <br>
+    
     
 
 
