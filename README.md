@@ -11,10 +11,10 @@ Sou um entusiasta da tecnologia amante do desenvolvimento de sistemas. Minha jor
 - ⚡| Estou ansioso para enfrentar novos desafios e contribuir para o desenvolvimento de soluções tecnológicas.<br><br>
 
 <div align="center">
-  <a href="https://github.com/mayarakaren">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mayarakaren&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayarakaren&layout=compact&langs_count=7&theme=dracula"/>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mayarakaren&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
+  <a href="https://github.com/Patick-gu">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Patick-gu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patick-gu&layout=compact&langs_count=7&theme=dracula"/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Patick-gu&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
   </div>
   <div style="display: inline_block"><br>
 
